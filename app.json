@@ -1,5 +1,5 @@
 {
-      "name": "Amelia Robot",
+      "name": "ABHINAS",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "Amelia"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "https://telegra.ph/file/0b8e92c38ee2b69cb533c.jpg",
 
    "repository": "https://github.com/war-legend/AmeliaRoBot",
    "addons": [
@@ -109,7 +109,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1868693368"
+         "value": "1514174551"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
