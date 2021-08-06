@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+  <img src="https://telegra.ph/file/0b8e92c38ee2b69cb533c.jpg">
 </p>
 
 # Amelia Group BoT
@@ -52,7 +52,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/war-legend/AmeliaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/roymusicplay/ABHINAS"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Our Telegram Channel and Group
